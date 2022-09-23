@@ -1,7 +1,6 @@
-# The global `.github` for all OpenWonderLabs projects
+# The global `.github` for all of my projects
 
-This projects contains any sort of common and community health files for the OpenWonderLabs organization
-to be maintained in a central space.
+This projects contains any sort of common and community health files for my projects to be maintained in a central space.
 
 ## Reusable GitHub Workflows
 
@@ -20,10 +19,10 @@ on:
 
 jobs:
   call-workflow:
-    uses: OpenWonderLabs/.github/.github/workflows/example-workflow.yml@main
+    uses: donavanbecker/.github/.github/workflows/example-workflow.yml@main
 
   call-workflow-passing-data:
-    uses: OpenWonderLabs/.github/.github/workflows/example-workflow.yml@main
+    uses: donavanbecker/.github/.github/workflows/example-workflow.yml@main
     with:
       username: mona
     secrets:

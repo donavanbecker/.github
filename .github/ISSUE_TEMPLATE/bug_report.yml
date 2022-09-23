@@ -4,11 +4,6 @@ description: File a bug report.
 labels: ["bug"]
 assignees:
   - donavanbecker
-  - SwitchBot
-  - SwitchBot-Wonderlabs
-  - Minsheng
-  - Devin-Wonderlabs
-  - chenliuyun
 
 body:
   - type: markdown

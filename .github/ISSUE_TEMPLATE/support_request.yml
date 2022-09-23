@@ -1,14 +1,9 @@
 name: ❓ Support Request
-description: Get help when you encounter problems with OpenWonderLabs software. Or simply ask a question.
+description: Get help when you encounter problems with this project. Or simply ask a question.
 
 labels: ["question"]
 assignees:
   - donavanbecker
-  - SwitchBot
-  - SwitchBot-Wonderlabs
-  - Minsheng
-  - Devin-Wonderlabs
-  - chenliuyun
 
 body:
   - type: markdown

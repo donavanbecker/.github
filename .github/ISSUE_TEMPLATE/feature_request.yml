@@ -4,17 +4,12 @@ description: Suggest an improvement or a new feature for this project.
 labels: ["enhancement"]
 assignees:
   - donavanbecker
-  - SwitchBot
-  - SwitchBot-Wonderlabs
-  - Minsheng
-  - Devin-Wonderlabs
-  - chenliuyun
 
 body:
   - type: markdown
     attributes:
       value: |
-        Hi. Thanks for taking the time to contribute to this OpenWonderLabs project!
+        Hi. Thanks for taking the time to contribute to this project!
 
   - type: textarea
     id: problem
